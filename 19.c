@@ -1,12 +1,12 @@
 #include<stdio.h>
 int main()
 {
-    int a,i,c=1;
+    int a,j,c=1;
     printf("enterv n.o");
     scanf("%d",&a);
-    for(i=1;i<=a;i++)
+    for(j=1;j<=a;i++)
     {
-        c=c*i;
+        c=c*j;
     }
         printf("%d",c);
     return 0;
