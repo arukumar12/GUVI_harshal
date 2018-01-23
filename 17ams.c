@@ -14,7 +14,7 @@ int main()
     if(result == number)
         printf("%d  Armstrong number.",number);
     else
-        printf("%d  Armstrong number.",number);
+        printf("%d  not Armstrong number.",number);
 
     return 0;
 }
