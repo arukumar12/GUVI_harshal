@@ -14,7 +14,7 @@ int main(void)
 	{
 		if(a[i]>m)
 		{
-			max=a[i];
+			m=a[i];
 		}
 	}
 	printf("\nThe maximum element is %d ",m);
